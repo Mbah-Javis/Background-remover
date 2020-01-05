@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>114530171_1.jpg</filename>
+	<path>C:\Users\Javis\Tensorflow Projects\Background remover\JFaceNetDataset\train\114530171_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>85</ymin>
+			<xmax>652</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>589</xmin>
+			<ymin>36</ymin>
+			<xmax>798</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

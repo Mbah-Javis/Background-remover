@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>280470249_1.jpg</filename>
+	<path>C:\Users\Javis\Tensorflow Projects\Background remover\JFaceNetDataset\test\280470249_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>30</ymin>
+			<xmax>598</xmax>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+</annotation>
