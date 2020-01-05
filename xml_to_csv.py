@@ -26,10 +26,10 @@ def xml_to_csv(path):
 
 
 def main():
-    for folder in ['train labels', 'test labels']:
+    for folder in ['train_', 'test_']:
         image_path = os.path.join(os.getcwd(), ('JaNetDataset/' + folder))
         xml_df = xml_to_csv(image_path)
-        xml_df.to_csv(('JaNetDataset/'+folder+'_labels.csv'), index=None)
+        xml_df.to_csv(('JaNetDataset/'+folder+'labels.csv'), index=None)
     print('Successfully converted xml to csv.')
 
 main()
