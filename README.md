@@ -24,7 +24,7 @@ in the command line and the same directory with the helen_1 folder.
 
 <p></p>
 
-I used this [label](https://github.com/tzutalin/labelImg) tool to label the images and each labele was saved as PICTURENUM.xml in train_ and test_ directories. 
+I used this [label](https://github.com/tzutalin/labelImg) tool to label the images and each label was saved as PICTURENUM.xml in train_ and test_ directories respectively. 
 <p></p>
 
 The file `xml_to_csv.py` was used to extract the labesl from the .xml files of the train_ and test_ directories to `train_labels.csv` and `test_labels.csv`  
