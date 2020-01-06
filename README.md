@@ -1,4 +1,4 @@
-# Background-remover
+# Background-remover project
 
 A background remover project that uses a frozen model trained on JaNetDataset. The fronzen model was trained [here](https://colab.research.google.com/drive/105ESRoQXROdjkJkcWPoU4RwAAmOhtJ3G)<p></p>
 
