@@ -12,6 +12,7 @@ Open this [notebook](https://github.com/Mbah-Javis/Background-remover/blob/maste
 ![](https://github.com/Mbah-Javis/Background-remover/blob/master/output/IMG_0031.png)
 
 <p></p>
+
 The JaNetDataset is a custom dataset made using 500 images from [Helen_1](http://www.ifp.illinois.edu/~vuongle2/helen/data/helen_1.zip). The images where resized to thesame shape using `transform_image_resolution.py` by typing  <p></p>
 ```python transform_image_resolution.py -d helen_1/ -s 800 600``` 
 <p></p>
