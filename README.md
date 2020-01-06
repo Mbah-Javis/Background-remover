@@ -4,9 +4,11 @@ A background remover project that uses a frozen model trained on JaNetDataset. T
 
 Open this [notebook](https://github.com/Mbah-Javis/Background-remover/blob/master/Background%20Removal.ipynb) to see how the model was used to remove background from an image
 <h3>Sample input</h3>
+
 ![](https://github.com/Mbah-Javis/Background-remover/blob/master/IMG_0031.JPG)
 
 <h3>Output</h3>
+
 ![](https://github.com/Mbah-Javis/Background-remover/blob/master/output/IMG_0031.png)
 
 <p></p>
